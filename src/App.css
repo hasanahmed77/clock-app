@@ -1,1 +1,7 @@
-
+body {
+  background: rgb(7, 22, 22);
+  color: white;
+  margin-top: 9rem;
+  text-align: center;
+  font-size: 3.5rem;
+}

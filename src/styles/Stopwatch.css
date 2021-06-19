@@ -1,7 +1,6 @@
 body {
   background: rgb(7, 22, 22);
-}
-
-.clock {
   color: white;
+  text-align: center;
+  font-size: 3.5rem;
 }
